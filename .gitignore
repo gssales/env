@@ -1,0 +1,7 @@
+# everything
+*
+
+# except
+!.gitignore
+!.bashrc
+!.git-prompt.sh
