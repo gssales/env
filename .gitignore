@@ -4,4 +4,5 @@
 # except
 !.gitignore
 !.bashrc
+!.bash_profile
 !.git-prompt.sh
